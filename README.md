@@ -1,10 +1,10 @@
-# Andrei Sferdian CV Website
+# CV Website
 
 A static personal CV website ready for GitHub Pages.
 
 ## Deploy on GitHub Pages
 
-1. Create a new GitHub repository, for example `andrei-sferdian.github.io`.
+1. Create a new GitHub repository, for example `username.github.io`.
 2. Upload `index.html` and `styles.css` to the repository root.
 3. Go to **Settings → Pages**.
 4. Set source to **Deploy from a branch**.
